@@ -1,0 +1,51 @@
+_repo: Evelina-Or-the-History-of-a-Young-Lady-s-Entrance-into-the-World_6053
+creator:
+  author:
+    agent_name: Burney, Fanny
+    aliases:
+    - D'Arblay, Frances Burney
+    - Burney, Frances
+    birthdate: 1752
+    deathdate: 1840
+    gutenberg_agent_id: '2010'
+    url: http://www.gutenberg.org/2009/agents/2010
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Burney
+description: "Evelina or the History of a Young Lady's Entrance into the World is\
+  \ a novel written by English author Fanny Burney and first published in 1778. Although\
+  \ published anonymously, its authorship was revealed by the poet George Huddesford\
+  \ in what Burney called a \"vile poem.\"\nIn this 3-volume epistolary novel, title\
+  \ character Evelina is the unacknowledged, but legitimate daughter of a dissipated\
+  \ English aristocrat, thus raised in rural seclusion until her 17th year. Through\
+  \ a series of humorous events that take place in London and the resort town of Hotwells,\
+  \ near Bristol, Evelina learns to navigate the complex layers of 18th-century society\
+  \ and earn the love of a distinguished nobleman. This sentimental novel, which has\
+  \ notions of sensibility and early romanticism, satirizes the society in which it\
+  \ is set and is a significant precursor to the work of Jane Austen and Maria Edgeworth,\
+  \ whose novels explore many of the same issues.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6053'
+  wikidata: Q1635110
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Satire'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Debutantes -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Socialites -- Fiction'
+title: Evelina, Or, the History of a Young Lady's Entrance into the World
+url: http://www.gutenberg.org/ebooks/6053
+wikipedia:
+- https://simple.wikipedia.org/wiki/Evelina
+- https://fr.wikipedia.org/wiki/Evelina_(roman)
+- https://en.wikipedia.org/wiki/Evelina
+- https://it.wikipedia.org/wiki/Evelina_(romanzo)
