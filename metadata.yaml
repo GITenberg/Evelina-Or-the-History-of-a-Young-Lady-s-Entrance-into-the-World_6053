@@ -1,5 +1,5 @@
 _repo: Evelina-Or-the-History-of-a-Young-Lady-s-Entrance-into-the-World_6053
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -48,6 +48,7 @@ subjects:
 - !lcsh 'Young women -- Fiction'
 - !lcsh 'Bildungsromans'
 - !lcsh 'Socialites -- Fiction'
+- GITenberg
 title: Evelina, Or, the History of a Young Lady's Entrance into the World
 url: http://www.gutenberg.org/ebooks/6053
 wikipedia:
